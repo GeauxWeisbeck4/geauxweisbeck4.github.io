@@ -1,6 +1,8 @@
 # geauxweisbeck4.github.io
 
-My official digital garden, curated and nurtured on my favorite knowledge-management-notes-human-mind tool ever. LogSeq is so money.
+My official digital garden, curated and nurtured on my favorite knowledge-management-notes-human-mind tool ever. LogSeq is so money. I also use Roam. And Obsidian. And Dendron. 
+
+I use all the tools baby.
 
 ## TO GET STARTED WITH LOGSEQ + THESE NOTES TEMPLATE 
 
